@@ -1,0 +1,12 @@
+build/
+client/node_modules/
+client/build/
+client/.env
+client/.next/  
+.build/
+
+functions/node_modules/
+
+package-lock.json
+
+

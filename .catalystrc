@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "54634000000046001",
+      "name": "de-next",
+      "domain": {
+        "id": "50045097448",
+        "name": "de-next-60076413535.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60076413535",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
